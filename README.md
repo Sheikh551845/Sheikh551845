@@ -3,7 +3,20 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [Sheikh-Villa](https://sheikh-villa.web.app/)<br>🌱 I’m currently learning **Node.js, MongoDB, React**<br>👨‍💻 All of my projects are available at [https://github.com/Sheikh551845?tab=repositories](https://github.com/Sheikh551845?tab=repositories)<br>💬 Ask me about **React, HTML, JavaScript**<br>📫 How to reach me **sheikh551845@gamil.com**
+🔭 I’m currently working on [Sheikh-Villa](https://sheikh-villa.web.app/)<br>
+🔭 My last 3 projects [Assignment Assist](https://assignment-assist.web.app/), [Z-Tech](https://z-tech-9a12f.web.app/), [Z Event](https://event-management-7c344.web.app/)<br>
+🌱 I’m currently learning **Node.js, MongoDB, React**<br>👨‍💻 All of my projects are available at [https://github.com/Sheikh551845?tab=repositories](https://github.com/Sheikh551845?tab=repositories)<br>💬 Ask me about **React, HTML, JavaScript**<br>📫 How to reach me **sheikh551845@gamil.com**
+
+## Short Description
+
+I am Sheikh Mohammad, a dedicated Full Stack Developer hailing from Bangladesh. With a profound passion for technology, I am currently immersed in the dynamic world of MERN stack development. My journey involves continuous learning and exploration of cutting-edge technologies, with a keen focus on Node.js, MongoDB, and React.
+
+As a tech enthusiast, I find joy in the intricate art of coding and problem-solving. Beyond the realm of development, I engage in the nuances of design thinking, aiming to create seamless and user-friendly experiences.
+
+My vision is to contribute meaningfully to the tech landscape, leveraging my skills to build innovative solutions that address real-world challenges. Through collaboration, continuous improvement, and a strong commitment to excellence, I aspire to make a positive impact on the ever-evolving field of software development.
+
+Feel free to connect with me to discuss technology, share ideas, or explore potential collaborations. Let's code the future together!
+
 
 
 ## 🌐 Socials:
